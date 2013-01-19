@@ -1,5 +1,5 @@
-﻿import sys
 #code for python 3
+import sys
 
 ###funtions(s)##############################################
 
